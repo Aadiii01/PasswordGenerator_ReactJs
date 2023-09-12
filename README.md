@@ -5,7 +5,7 @@ In this Project i made the Password Generator using `useState` `useCallback` `us
 
 ## Description :-
 
-In rhi Password Generator there is many functionality like password length including special symbol including numbers and it copy password only upto 12 length. 
+In this Password Generator there is many functionality like password length including special symbol including numbers and it copy password only upto 12 length. 
 
 ### Screenshots :- 
 
